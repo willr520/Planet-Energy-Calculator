@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    width: 100px;
+    padding: 20px;
+}
+
+button {
+    position:absolute;
+    background-color: black;
+    color:white;
+    border:none;
+    top:20px;
+    right:0px;
+    font-size: 2.125rem;
+    font-family: 'roboto';
+    cursor:pointer;
+}
+
+button:hover {
+    background-color: red;
+}
+
+h1 {
+    position:absolute;
+    font-size: 2.125rem;
+    top:0px;
+    left:0px;
+}
+
+#planets {
+    position:absolute;
+    top: 100px;
+}
+
+.planet {
+    display: inline-block;
+            width: 150px; 
+            margin: 25px; 
+}

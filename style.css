@@ -35,10 +35,12 @@ h1 {
 #planets {
     position:absolute;
     top: 100px;
+    text-align: center;
 }
 
 .planet {
     display: inline-block;
             width: 150px; 
             margin: 25px; 
+            text-align: center;
 }
